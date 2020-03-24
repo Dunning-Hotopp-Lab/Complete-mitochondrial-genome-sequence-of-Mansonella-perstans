@@ -1,6 +1,8 @@
 # Complete mitochondrial genome sequence of Mansonella perstans  
 20200324 | Matthew Chung
 
+[![DOI](https://zenodo.org/badge/249792410.svg)](https://zenodo.org/badge/latestdoi/249792410)
+
 <!-- MarkdownTOC autolink="true" levels="1,2,3,4" -->
 
 - [Set software and directory paths](#set-software-and-directory-paths)
